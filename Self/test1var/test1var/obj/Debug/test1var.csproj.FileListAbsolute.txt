@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Self\test1var\test1var\bin\Debug\test1var.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\test1var\test1var\bin\Debug\test1var.exe
+C:\Users\USER\Desktop\Codes\c#\Self\test1var\test1var\bin\Debug\test1var.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\test1var\test1var\obj\Debug\test1var.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Self\test1var\test1var\obj\Debug\test1var.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\test1var\test1var\obj\Debug\test1var.exe
+C:\Users\USER\Desktop\Codes\c#\Self\test1var\test1var\obj\Debug\test1var.pdb

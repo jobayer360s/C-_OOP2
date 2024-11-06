@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Lab\NameType\NameType\bin\Debug\NameType.exe.config
+C:\Users\USER\Desktop\Codes\c#\Lab\NameType\NameType\bin\Debug\NameType.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\NameType\NameType\bin\Debug\NameType.pdb
+C:\Users\USER\Desktop\Codes\c#\Lab\NameType\NameType\obj\Debug\NameType.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\NameType\NameType\obj\Debug\NameType.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\NameType\NameType\obj\Debug\NameType.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\NameType\NameType\obj\Debug\NameType.pdb
