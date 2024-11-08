@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array2\Problem1Solution\Problem1Solution\bin\Debug\Problem1Solution.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array2\Problem1Solution\Problem1Solution\bin\Debug\Problem1Solution.exe
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array2\Problem1Solution\Problem1Solution\bin\Debug\Problem1Solution.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array2\Problem1Solution\Problem1Solution\obj\Debug\Problem1Solution.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array2\Problem1Solution\Problem1Solution\obj\Debug\Problem1Solution.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array2\Problem1Solution\Problem1Solution\obj\Debug\Problem1Solution.exe
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array2\Problem1Solution\Problem1Solution\obj\Debug\Problem1Solution.pdb
