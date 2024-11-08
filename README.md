@@ -25,7 +25,7 @@ This repository contains the source code and examples for
 
 # warning!
 # please do not copy codes directly from here. This will harm your learnig.
-#Try to solve problems by yourself. If you faced difficulty then take help from here.
+# Try to solve problems by yourself. If you faced difficulty then take help from here.
 # Happy Learning
 
 ## Contact
