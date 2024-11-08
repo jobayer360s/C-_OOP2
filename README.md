@@ -23,10 +23,10 @@ This repository contains the source code and examples for
 - Visual Studio 2019 or later
 - .NET SDK 5.0 or later
 
-#warning!
-#please do not copy codes directly from here. This will harm your learnig.
+# warning!
+# please do not copy codes directly from here. This will harm your learnig.
 #Try to solve problems by yourself. If you faced difficulty then take help from here.
-#Happy Learning
+# Happy Learning
 
 ## Contact
 For any questions or feedback, please contact me at [jobayer.sheakh@gmail.com].
