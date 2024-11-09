@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\u00262DArray\\jaggedArray2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92B20562-6DEB-4178-B6CE-F9A864C75E98}|jaggedArray2\\jaggedArray2.csproj|c:\\users\\user\\desktop\\codes\\c#\\self\\1.array\\array4_jaggedarray\u00262darray\\jaggedarray2\\jaggedarray2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B20562-6DEB-4178-B6CE-F9A864C75E98}|jaggedArray2\\jaggedArray2.csproj|solutionrelative:jaggedarray2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\u00262DArray\\jaggedArray2\\jaggedArray2\\Program.cs",
+              "RelativeDocumentMoniker": "jaggedArray2\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\u00262DArray\\jaggedArray2\\jaggedArray2\\Program.cs",
+              "RelativeToolTip": "jaggedArray2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:57:15.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -5,3 +5,10 @@ C:\Users\student\Desktop\jjjjjj\problem5\problem5\obj\Debug\problem5.csproj.Asse
 C:\Users\student\Desktop\jjjjjj\problem5\problem5\obj\Debug\problem5.csproj.CoreCompileInputs.cache
 C:\Users\student\Desktop\jjjjjj\problem5\problem5\obj\Debug\problem5.exe
 C:\Users\student\Desktop\jjjjjj\problem5\problem5\obj\Debug\problem5.pdb
+C:\Users\USER\Desktop\Codes\c#\Lab\LabTasks\LabTask1\problem5\problem5\bin\Debug\problem5.exe.config
+C:\Users\USER\Desktop\Codes\c#\Lab\LabTasks\LabTask1\problem5\problem5\bin\Debug\problem5.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\LabTasks\LabTask1\problem5\problem5\bin\Debug\problem5.pdb
+C:\Users\USER\Desktop\Codes\c#\Lab\LabTasks\LabTask1\problem5\problem5\obj\Debug\problem5.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\LabTasks\LabTask1\problem5\problem5\obj\Debug\problem5.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\LabTasks\LabTask1\problem5\problem5\obj\Debug\problem5.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\LabTasks\LabTask1\problem5\problem5\obj\Debug\problem5.pdb
