@@ -1,2 +1,7 @@
 C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray2\jaggedArray2\obj\Debug\jaggedArray2.csproj.AssemblyReference.cache
 C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray2\jaggedArray2\obj\Debug\jaggedArray2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray2\jaggedArray2\bin\Debug\jaggedArray2.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray2\jaggedArray2\bin\Debug\jaggedArray2.exe
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray2\jaggedArray2\bin\Debug\jaggedArray2.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray2\jaggedArray2\obj\Debug\jaggedArray2.exe
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray2\jaggedArray2\obj\Debug\jaggedArray2.pdb

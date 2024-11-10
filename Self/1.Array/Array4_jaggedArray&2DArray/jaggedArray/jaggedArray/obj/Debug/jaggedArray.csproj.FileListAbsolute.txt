@@ -5,3 +5,10 @@ C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray\jaggedArray\jagge
 C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray\jaggedArray\jaggedArray\obj\Debug\jaggedArray.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray\jaggedArray\jaggedArray\obj\Debug\jaggedArray.exe
 C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray\jaggedArray\jaggedArray\obj\Debug\jaggedArray.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray\jaggedArray\bin\Debug\jaggedArray.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray\jaggedArray\bin\Debug\jaggedArray.exe
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray\jaggedArray\bin\Debug\jaggedArray.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray\jaggedArray\obj\Debug\jaggedArray.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray\jaggedArray\obj\Debug\jaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray\jaggedArray\obj\Debug\jaggedArray.exe
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\jaggedArray\jaggedArray\obj\Debug\jaggedArray.pdb

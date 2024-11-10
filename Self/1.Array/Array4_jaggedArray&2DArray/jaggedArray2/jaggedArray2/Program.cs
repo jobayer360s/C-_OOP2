@@ -19,15 +19,38 @@ namespace jaggedArray2
                           
             
             };
+            //for (int i = 0; i < jagged_arr1.length; i++)
+            //{
+            //    for (int j = 0; j < jagged_arr1[i].length; j++)
+            //    {
+            //       for(int k = 0; k < jagged_arr1[i][j].length; k++)
+            //        {
+            //            ja
+            //        }
+            //    }
+            //    console.writeline();
+            //}
+            //Can not acess them?
+
+
+            // Iterate through each 2D array in the jagged array
             for (int i = 0; i < jagged_arr1.Length; i++)
             {
-                for (int j = 0; j < jagged_arr1[i].Length; j++)
+                Console.WriteLine("Array " + (i + 1) + ":");
+
+                // Iterate through the rows of the current 2D array
+                for (int j = 0; j < jagged_arr1[i].GetLength(0); j++)
                 {
-                    Console.Write(jagged_arr1[i][j] + " ");
+                    // Iterate through the columns of the current 2D array
+                    for (int k = 0; k < jagged_arr1[i].GetLength(1); k++)
+                    {
+                        Console.Write(jagged_arr1[i][j, k] + " ");
+                    }
+                    Console.WriteLine();
                 }
                 Console.WriteLine();
             }
-            //Can not acess them?
+
 
             Console.ReadKey();
 

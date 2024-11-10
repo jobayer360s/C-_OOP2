@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\\jaggedArray\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\u00262DArray\\jaggedArray\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A534DD1-CBB6-4108-BB08-D250925EA995}|jaggedArray\\jaggedArray.csproj|c:\\users\\user\\desktop\\codes\\c#\\self\\1.array\\array4_jaggedarray\\jaggedarray\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A534DD1-CBB6-4108-BB08-D250925EA995}|jaggedArray\\jaggedArray.csproj|c:\\users\\user\\desktop\\codes\\c#\\self\\1.array\\array4_jaggedarray\u00262darray\\jaggedarray\\jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A534DD1-CBB6-4108-BB08-D250925EA995}|jaggedArray\\jaggedArray.csproj|solutionrelative:jaggedarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\\jaggedArray\\jaggedArray\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\u00262DArray\\jaggedArray\\jaggedArray\\Program.cs",
               "RelativeDocumentMoniker": "jaggedArray\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\\jaggedArray\\jaggedArray\\Program.cs",
-              "RelativeToolTip": "jaggedArray\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACEAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Self\\1.Array\\Array4_jaggedArray\u00262DArray\\jaggedArray\\jaggedArray\\Program.cs*",
+              "RelativeToolTip": "jaggedArray\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T16:15:10.549Z",
               "EditorCaption": ""

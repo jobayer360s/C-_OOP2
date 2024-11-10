@@ -15,7 +15,6 @@ namespace jaggedArray
             //j_arr1[1] = new int[3]; // this row has 3 column
             //j_arr1[2] = new int[4]; // this row has 2 column
 
-
            
             jagged_arr[0] = new int[2] {1,4}; 
             jagged_arr[1] = new int[3] {5,7,9};

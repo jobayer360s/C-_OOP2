@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Self\2.TypecastPrac\2.TypecastPrac\bin\Debug\2.TypecastPrac.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\2.TypecastPrac\2.TypecastPrac\bin\Debug\2.TypecastPrac.exe
+C:\Users\USER\Desktop\Codes\c#\Self\2.TypecastPrac\2.TypecastPrac\bin\Debug\2.TypecastPrac.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\2.TypecastPrac\2.TypecastPrac\obj\Debug\2.TypecastPrac.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Self\2.TypecastPrac\2.TypecastPrac\obj\Debug\2.TypecastPrac.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\2.TypecastPrac\2.TypecastPrac\obj\Debug\2.TypecastPrac.exe
+C:\Users\USER\Desktop\Codes\c#\Self\2.TypecastPrac\2.TypecastPrac\obj\Debug\2.TypecastPrac.pdb
