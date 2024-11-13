@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Lab\8.methodClassObject\8.methodClassObject\bin\Debug\8.methodClassObject.exe.config
+C:\Users\USER\Desktop\Codes\c#\Lab\8.methodClassObject\8.methodClassObject\bin\Debug\8.methodClassObject.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\8.methodClassObject\8.methodClassObject\bin\Debug\8.methodClassObject.pdb
+C:\Users\USER\Desktop\Codes\c#\Lab\8.methodClassObject\8.methodClassObject\obj\Debug\8.methodClassObject.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\8.methodClassObject\8.methodClassObject\obj\Debug\8.methodClassObject.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\8.methodClassObject\8.methodClassObject\obj\Debug\8.methodClassObject.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\8.methodClassObject\8.methodClassObject\obj\Debug\8.methodClassObject.pdb
