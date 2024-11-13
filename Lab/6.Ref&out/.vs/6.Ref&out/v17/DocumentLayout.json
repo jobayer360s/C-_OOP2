@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\6.Ref\u0026out\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A8F4B0-8C44-4589-9E0F-17229F1FE5FA}|6.Ref\u0026out\\6.Ref\u0026out.csproj|c:\\users\\user\\desktop\\codes\\c#\\lab\\6.ref\u0026out\\6.ref\u0026out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0A8F4B0-8C44-4589-9E0F-17229F1FE5FA}|6.Ref\u0026out\\6.Ref\u0026out.csproj|solutionrelative:6.ref\u0026out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\6.Ref\u0026out\\6.Ref\u0026out\\Program.cs",
+              "RelativeDocumentMoniker": "6.Ref\u0026out\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\6.Ref\u0026out\\6.Ref\u0026out\\Program.cs",
+              "RelativeToolTip": "6.Ref\u0026out\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:05:01.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
