@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Lab\10.ClassAndObjectUsing_SetGet\10.ClassAndObjectUsing_SetGet\bin\Debug\10.ClassAndObjectUsing_SetGet.exe.config
+C:\Users\USER\Desktop\Codes\c#\Lab\10.ClassAndObjectUsing_SetGet\10.ClassAndObjectUsing_SetGet\bin\Debug\10.ClassAndObjectUsing_SetGet.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\10.ClassAndObjectUsing_SetGet\10.ClassAndObjectUsing_SetGet\bin\Debug\10.ClassAndObjectUsing_SetGet.pdb
+C:\Users\USER\Desktop\Codes\c#\Lab\10.ClassAndObjectUsing_SetGet\10.ClassAndObjectUsing_SetGet\obj\Debug\10.ClassAndObjectUsing_SetGet.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\10.ClassAndObjectUsing_SetGet\10.ClassAndObjectUsing_SetGet\obj\Debug\10.ClassAndObjectUsing_SetGet.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\10.ClassAndObjectUsing_SetGet\10.ClassAndObjectUsing_SetGet\obj\Debug\10.ClassAndObjectUsing_SetGet.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\10.ClassAndObjectUsing_SetGet\10.ClassAndObjectUsing_SetGet\obj\Debug\10.ClassAndObjectUsing_SetGet.pdb

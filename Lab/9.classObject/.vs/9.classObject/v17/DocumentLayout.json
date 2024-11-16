@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\9.classObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BF28DA4-B766-4C39-B0A9-736840949367}|9.classObject\\9.classObject.csproj|c:\\users\\user\\desktop\\codes\\c#\\lab\\9.classobject\\9.classobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BF28DA4-B766-4C39-B0A9-736840949367}|9.classObject\\9.classObject.csproj|solutionrelative:9.classobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\9.classObject\\9.classObject\\Program.cs",
+              "RelativeDocumentMoniker": "9.classObject\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\9.classObject\\9.classObject\\Program.cs",
+              "RelativeToolTip": "9.classObject\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowDMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:40:39.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

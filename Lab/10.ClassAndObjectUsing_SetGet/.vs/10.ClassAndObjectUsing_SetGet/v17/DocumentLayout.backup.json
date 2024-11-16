@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\10.ClassAndObjectUsing_SetGet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C6BD058-CD64-4986-8195-AC5B55B53A8A}|10.ClassAndObjectUsing_SetGet\\10.ClassAndObjectUsing_SetGet.csproj|c:\\users\\user\\desktop\\codes\\c#\\lab\\10.classandobjectusing_setget\\10.classandobjectusing_setget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C6BD058-CD64-4986-8195-AC5B55B53A8A}|10.ClassAndObjectUsing_SetGet\\10.ClassAndObjectUsing_SetGet.csproj|solutionrelative:10.classandobjectusing_setget\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\10.ClassAndObjectUsing_SetGet\\10.ClassAndObjectUsing_SetGet\\Program.cs",
+              "RelativeDocumentMoniker": "10.ClassAndObjectUsing_SetGet\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\10.ClassAndObjectUsing_SetGet\\10.ClassAndObjectUsing_SetGet\\Program.cs",
+              "RelativeToolTip": "10.ClassAndObjectUsing_SetGet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:11:54.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

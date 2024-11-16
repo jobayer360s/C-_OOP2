@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\9.classObject\9.classObject\obj\Debug\9.classObject.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\9.classObject\9.classObject\obj\Debug\9.classObject.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\9.classObject\9.classObject\bin\Debug\9.classObject.exe.config
+C:\Users\USER\source\repos\9.classObject\9.classObject\bin\Debug\9.classObject.exe
+C:\Users\USER\source\repos\9.classObject\9.classObject\bin\Debug\9.classObject.pdb
+C:\Users\USER\source\repos\9.classObject\9.classObject\obj\Debug\9.classObject.exe
+C:\Users\USER\source\repos\9.classObject\9.classObject\obj\Debug\9.classObject.pdb

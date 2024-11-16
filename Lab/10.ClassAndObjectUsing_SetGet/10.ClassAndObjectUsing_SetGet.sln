@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.ClassAndObjectUsing_SetGet", "10.ClassAndObjectUsing_SetGet\10.ClassAndObjectUsing_SetGet.csproj", "{7C6BD058-CD64-4986-8195-AC5B55B53A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C6BD058-CD64-4986-8195-AC5B55B53A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6BD058-CD64-4986-8195-AC5B55B53A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6BD058-CD64-4986-8195-AC5B55B53A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6BD058-CD64-4986-8195-AC5B55B53A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FF1CE5F-51E0-4F78-B7C7-1687DBAAE757}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Lab\11.Params\11.Params\bin\Debug\11.Params.exe.config
+C:\Users\USER\Desktop\Codes\c#\Lab\11.Params\11.Params\bin\Debug\11.Params.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\11.Params\11.Params\bin\Debug\11.Params.pdb
+C:\Users\USER\Desktop\Codes\c#\Lab\11.Params\11.Params\obj\Debug\11.Params.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\11.Params\11.Params\obj\Debug\11.Params.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\11.Params\11.Params\obj\Debug\11.Params.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\11.Params\11.Params\obj\Debug\11.Params.pdb
