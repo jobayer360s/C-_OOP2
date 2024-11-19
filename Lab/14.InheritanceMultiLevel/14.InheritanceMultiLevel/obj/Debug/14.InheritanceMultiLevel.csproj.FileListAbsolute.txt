@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Lab\14.InheritanceMultiLevel\14.InheritanceMultiLevel\bin\Debug\14.InheritanceMultiLevel.exe.config
+C:\Users\USER\Desktop\Codes\c#\Lab\14.InheritanceMultiLevel\14.InheritanceMultiLevel\bin\Debug\14.InheritanceMultiLevel.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\14.InheritanceMultiLevel\14.InheritanceMultiLevel\bin\Debug\14.InheritanceMultiLevel.pdb
+C:\Users\USER\Desktop\Codes\c#\Lab\14.InheritanceMultiLevel\14.InheritanceMultiLevel\obj\Debug\14.InheritanceMultiLevel.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\14.InheritanceMultiLevel\14.InheritanceMultiLevel\obj\Debug\14.InheritanceMultiLevel.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\14.InheritanceMultiLevel\14.InheritanceMultiLevel\obj\Debug\14.InheritanceMultiLevel.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\14.InheritanceMultiLevel\14.InheritanceMultiLevel\obj\Debug\14.InheritanceMultiLevel.pdb
