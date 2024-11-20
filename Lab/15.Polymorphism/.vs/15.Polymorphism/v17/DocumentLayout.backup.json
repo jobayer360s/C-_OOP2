@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\15.Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{678E26D8-A2A1-42BA-8AB0-873866C80F07}|15.Polymorphism\\15.Polymorphism.csproj|c:\\users\\user\\desktop\\codes\\c#\\lab\\15.polymorphism\\15.polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{678E26D8-A2A1-42BA-8AB0-873866C80F07}|15.Polymorphism\\15.Polymorphism.csproj|solutionrelative:15.polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\15.Polymorphism\\15.Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "15.Polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Codes\\c#\\Lab\\15.Polymorphism\\15.Polymorphism\\Program.cs",
+              "RelativeToolTip": "15.Polymorphism\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:41:31.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

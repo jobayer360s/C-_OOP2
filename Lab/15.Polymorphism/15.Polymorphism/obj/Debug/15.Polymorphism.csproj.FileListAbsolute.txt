@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Lab\15.Polymorphism\15.Polymorphism\obj\Debug\15.Polymorphism.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\15.Polymorphism\15.Polymorphism\obj\Debug\15.Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Lab\15.Polymorphism\15.Polymorphism\bin\Debug\15.Polymorphism.exe.config
+C:\Users\USER\Desktop\Codes\c#\Lab\15.Polymorphism\15.Polymorphism\bin\Debug\15.Polymorphism.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\15.Polymorphism\15.Polymorphism\bin\Debug\15.Polymorphism.pdb
+C:\Users\USER\Desktop\Codes\c#\Lab\15.Polymorphism\15.Polymorphism\obj\Debug\15.Polymorphism.exe
+C:\Users\USER\Desktop\Codes\c#\Lab\15.Polymorphism\15.Polymorphism\obj\Debug\15.Polymorphism.pdb
