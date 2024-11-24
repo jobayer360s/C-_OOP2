@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Self\refOutEnam\refOutEnam\obj\Debug\refOutEnam.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Self\refOutEnam\refOutEnam\obj\Debug\refOutEnam.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\refOutEnam\refOutEnam\bin\Debug\refOutEnam.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\refOutEnam\refOutEnam\bin\Debug\refOutEnam.exe
+C:\Users\USER\Desktop\Codes\c#\Self\refOutEnam\refOutEnam\bin\Debug\refOutEnam.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\refOutEnam\refOutEnam\obj\Debug\refOutEnam.exe
+C:\Users\USER\Desktop\Codes\c#\Self\refOutEnam\refOutEnam\obj\Debug\refOutEnam.pdb

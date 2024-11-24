@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Self\IsAsParams\IsAsParams\bin\Debug\IsAsParams.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\IsAsParams\IsAsParams\bin\Debug\IsAsParams.exe
+C:\Users\USER\Desktop\Codes\c#\Self\IsAsParams\IsAsParams\bin\Debug\IsAsParams.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\IsAsParams\IsAsParams\obj\Debug\IsAsParams.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Self\IsAsParams\IsAsParams\obj\Debug\IsAsParams.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\IsAsParams\IsAsParams\obj\Debug\IsAsParams.exe
+C:\Users\USER\Desktop\Codes\c#\Self\IsAsParams\IsAsParams\obj\Debug\IsAsParams.pdb
