@@ -11,7 +11,7 @@ namespace _13.Inheritance
         private string name;
         private int age;
 
-        public Person() { }
+        public Person() {  }
 
         public Person(String name, int age)
         {
@@ -35,7 +35,7 @@ namespace _13.Inheritance
 
         public void Display()
         {
-            Console.WriteLine(name + " " + age);
+            Console.WriteLine(Name + " " + Age);
         }
     }
     class Employee : Person
