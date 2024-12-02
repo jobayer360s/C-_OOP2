@@ -53,7 +53,8 @@ namespace refOutEnam
             Console.WriteLine("The value of 'a' after modify {0}", a);
 
             int b;
-            //Console.WriteLine("The value of 'b' before initalization {0}", b); // its not possible as it is not initialized
+            //Console.WriteLine("The value of 'b' before initalization {0}", b); 
+            // its not possible as it is not initialized
             initialization(out b);
             Console.WriteLine("The value of 'b' after initalization {0}", b);
 
@@ -65,7 +66,7 @@ namespace refOutEnam
 
             Console.WriteLine();
             Console.WriteLine("Enum out puts");
-           Level l1 = Level.Medium;
+            Level l1 = Level.Medium;
             Console.WriteLine(l1);
 
             Console.WriteLine("Enum 2");

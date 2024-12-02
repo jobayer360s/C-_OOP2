@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Self\TypeCasr2\TypeCasr2\bin\Debug\TypeCasr2.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\TypeCasr2\TypeCasr2\bin\Debug\TypeCasr2.exe
+C:\Users\USER\Desktop\Codes\c#\Self\TypeCasr2\TypeCasr2\bin\Debug\TypeCasr2.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\TypeCasr2\TypeCasr2\obj\Debug\TypeCasr2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Self\TypeCasr2\TypeCasr2\obj\Debug\TypeCasr2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\TypeCasr2\TypeCasr2\obj\Debug\TypeCasr2.exe
+C:\Users\USER\Desktop\Codes\c#\Self\TypeCasr2\TypeCasr2\obj\Debug\TypeCasr2.pdb
