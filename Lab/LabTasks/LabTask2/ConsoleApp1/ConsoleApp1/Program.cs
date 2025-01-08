@@ -185,7 +185,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            AIUB aIUB = new AIUB("Tonny","1246","0123654987");
+            AIUB aIUB = new AIUB("Tonmoy","1246","0123654987");
             aIUB.Showinfo();
             
             Students students = new Students("Jobayer", "23-50647-1", "01756111111", "C sharp, MicroProcessor", 15, 3.9);

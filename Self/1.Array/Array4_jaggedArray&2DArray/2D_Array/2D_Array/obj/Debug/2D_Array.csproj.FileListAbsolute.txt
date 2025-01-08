@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\2D_Array\2D_Array\bin\Debug\2D_Array.exe.config
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\2D_Array\2D_Array\bin\Debug\2D_Array.exe
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\2D_Array\2D_Array\bin\Debug\2D_Array.pdb
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\2D_Array\2D_Array\obj\Debug\2D_Array.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\2D_Array\2D_Array\obj\Debug\2D_Array.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\2D_Array\2D_Array\obj\Debug\2D_Array.exe
+C:\Users\USER\Desktop\Codes\c#\Self\1.Array\Array4_jaggedArray&2DArray\2D_Array\2D_Array\obj\Debug\2D_Array.pdb
